@@ -1,10 +1,8 @@
 ## <a name="introduction">🤖 Introduction</a>
 
-Create an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
+Converso – AI-Powered SaaS LMS Platform
+Converso is a modern Full-Stack SaaS Learning Management System built with Next.js, Supabase, Stripe, and Clerk, featuring AI-powered voice tutors, subscription billing, and real-time learning sessions. This production-ready platform demonstrates advanced SaaS architecture and scalable design.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
