@@ -1,6 +1,6 @@
 ## <a name="introduction">🤖 Introduction</a>
 
-Converso – AI-Powered SaaS LMS Platform
+
 Converso is a modern Full-Stack SaaS Learning Management System built with Next.js, Supabase, Stripe, and Clerk, featuring AI-powered voice tutors, subscription billing, and real-time learning sessions. This production-ready platform demonstrates advanced SaaS architecture and scalable design.
 
 
