@@ -3,6 +3,7 @@
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge)](https://converso-saas-three.vercel.app/)
 
 **Make sure to log in and choose the free plan for full access**
+**Image preview is at the bottom**
 
 ## <a name="introduction">🤖 Introduction</a>
 
