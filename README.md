@@ -4,10 +4,7 @@
 
 **Make sure to log in and choose the free plan for full access**
 
-
-
 ## <a name="introduction">🤖 Introduction</a>
-
 
 Converso is a modern Full-Stack SaaS Learning Management System built with Next.js, Supabase, Stripe, and Clerk, featuring AI-powered voice tutors, subscription billing, and real-time learning sessions. This production-ready platform demonstrates advanced SaaS architecture and scalable design.
 
