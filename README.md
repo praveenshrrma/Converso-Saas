@@ -1,7 +1,9 @@
 ## 🚀 Live Demo
 
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge)](https://converso-saas-three.vercel.app/)
-<strong> Make sure to log in and choose free plan for full access </strong>
+
+**Make sure to log in and choose the free plan for full access**
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
